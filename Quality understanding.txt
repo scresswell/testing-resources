@@ -1,0 +1,63 @@
+﻿Quality matters to us as IT professionals. We take pride in producing a quality product, and our clients, employers and peers will consider the quality of that product when assessing our performance and reputation.
+Recently I’ve been reflecting on Quality; what it means, how we know what it means, and how we approach achieving it.
+
+
+What does quality mean to me?
+Does the product which we are delivering meet the expectations of stakeholders; users, clients, product managers, technical leads, compliance assessors, our own team etc.
+It’s context driven, but at a high level I think of quality as;
+How well a thing meets someone’s expectations.
+
+
+What can I do so that my team achieves quality?
+As a test engineer, I use analysis, questioning, checking, testing, support, coaching and learning to assist my team in delivering a quality product. A product that meets expectations.
+Expectations of a product can be set through explicit or implicit requirements, but it's very seldom that requirements cover all possible scenarios or circumstances.
+
+
+When I'm designing a test approach or thinking about where to focus testing activities, my first stop is usually James’ Bach Heuristic Test Strategy Model. The Quality Criteria Categories broaden my thinking to where potential problems may arise for our product; Capability, Reliability, Usability, Charisma, Security, Scalability, Compatibility, Performance, Installability, and Development. 
+
+
+What does my team do to ensure we're delivering quality?
+Where the Quality Criteria Categories have really made an impact is when I’ve used them as conversation catalysts with the team. Coversations with developers, business analysts, technical leads and stakeholders establish and clarify the expectations of the product we’re developing.
+These conversations remove ambiguity or differing opinions, let implicit requirements bubble to the surface, and allow us to debate and refine what quality looks like for this product.
+The outcome is a clear shared understanding what the expectations are - ‘what the product should be’.
+
+
+In my current project the expectation for some quality criteria are pre-defined through explicit requirements. We have standards which we have to adhere to for compliance; namely Accessibility and Compatibility. 
+In this case the conversations with the team are only geared towards establishing the shared understanding of what the product has to be, without the need for debate or refinement. The expectations are set and we know what the product has to do to meet them.
+
+
+The conversations have helped us identify mis understandings, uncommunicated functional requirements, and undefined non functional requirements.
+
+
+At the moment these conversations are adhoc, and led by me as the test engineer. I'd like to put a bit more ceremony around them, to make sure we’re consistent for each story we play.
+I’m going to try incorporating the questions into our QA kick-offs, and print the quality criteria out as a poster to spark people to think about them.
+
+
+What quality does your team give the most attention to?
+While we do spend time in conversations about the Product specific Quality Criteria, a lot of our conversations recently have been centred on five ‘Project’ expectations; Code quality, Story quality, Test quality, Pipeline quality, and what I call Time-use quality (how we spend our time in ceremonies and meetings).
+I call these ‘Project’ expectation criteria because the ‘thing’ they’re concerned with is related to 'the way we are delivering the product' not 'the way the product should be'.
+Aiming for good quality in the way we build things should lead to quality in the end product.[a]
+
+
+The Heuristic Test Strategy does have the 'Development' category, which can start conversations about Code and Test quality e.g. maintainability, testability and portability. 
+In these conversations the people delivering the product are constantly evaluating if ‘how we are doing things’ meets our expectations.
+These conversations are worth having as the topics affect our workflow and how efficient we are at delivering a quality product. They fit well with the agile and lean methodology of build, measure, learn, reflect and adapt.
+
+
+As craftspeople in an agile environment, the conversations are empowering as we have the ability to affect, dictate and lead the expectations around code, story, test, pipeline and time-use quality.[b]
+I think we sometimes spend too much time talking about Project quality over Product.
+
+
+[more goes here]
+
+
+How do you know you have a common understanding?
+How do you know you're aiming for the same level of quality?
+Your team needs to have agreement on what the quality is they're aiming for is. A simple way is to see how many stories and defects are rejected.
+If your stories are being rejected by testers, technical leads, product owners, or users at sign off; it's likely you're building and testing below their expectations.
+If your team is raising defects which lead to debate, don't get prioritised, or get closed as 'won't fix'; it's likely they're identifying issues which are beyond expectations.
+
+
+[conclusion]
+[a]feel this needs to be fleshed out to show the co-relation to how the project expectations do help lead to product quality
+[b]Finding it hard to see exactly what project quality is AND what you are doing as a test engineer to help address it AND make your team realise its a project vs product quality criteria
