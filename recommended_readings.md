@@ -16,8 +16,10 @@
 ## Performance Testing
 - [A Quick Start Guide To Learning Performance Testing](https://dojo.ministryoftesting.com/dojo/lessons/a-quick-start-guide-to-learning-performance-testing/) : The PerfBytes Community, blog
 - [Performance Testing vs. Load Testing vs. Stress Testing](https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing?utm_source=blog&utm_medium=BM_blog&utm_campaign=jmeter-vs-locust-which-one-should-you-choose/) : blog & audio
+## Test Automation
 - [5 Reasons Why Test Automation Can Fail](https://www.thoughtworks.com/insights/blog/5-reasons-why-test-automation-can-fail/) : Torsten Leibrich, blog
 - [Just say no to more end-to-end tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html/) : Mike Wacker - Google/) : blog
+- [API Checking Framework - Getting Started](https://dojo.ministryoftesting.com/dojo/lessons/part-1-getting-started-installation-of-software) : Ministry of Testing, Tutorial
 ## Business Driven Development
 - [The Cucumber Book: Behaviour-Driven Development for Testers and Developers ](https://www.amazon.com/gp/offer-listing/1934356808/ref=dp_olp_all_mbc?ie=UTF8&condition=all/) : Matt Wynne and Aslak Helles, book
 - [Behavior Driven Development (BDD/) : & Software Testing in Agile Environments  ](https://medium.com/agile-vision/behavior-driven-development-bdd-software-testing-in-agile-environments-d5327c0f9e2d/) : Thilina Ashen Gamage, blog
@@ -36,3 +38,5 @@
 ## General
 - [Testing in the Pub](http://testinginthepub.co.uk/testinginthepub/) : Dan Ashby & Stephen Janaway, PodCast
 - [Software Testing and Development Book List](https://trello.com/b/WH2l8tCq/book-list-software-development-and-testing/) : (Independently maintained, Trello board]
+- [Testing vs Checking](https://www.flickr.com/photos/softwaretestingclub/7672304832/sizes/o/in/photostream/) : Software Testing Club, Mindmap
+- [A Tale of Two Product Owners](https://www.stickyminds.com/article/tale-two-product-owners) :  Anupam Kundu, Blog
